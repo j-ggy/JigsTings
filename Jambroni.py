@@ -1,3 +1,7 @@
+#   Iterates through folders containing song tracks.
+#   Combines songs in each folder based on requested 
+#   instrumentation/vocals
+
 #   Not finished or pythonic
 
 #   Need to learn functions better
