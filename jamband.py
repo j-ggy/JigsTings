@@ -8,7 +8,7 @@
 
 #   Reads INI's files for name/artist/instrumentation,
 #   fixed all errors in INI's manually rather than
-#   figure out how 'try' or error handling works.
+#   figure out how 'try' or error handling works. test
 
 import os
 from os import path
